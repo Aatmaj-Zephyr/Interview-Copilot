@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "interviewcopilottest00",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"editor.suggest.snippetsPreventQuickSuggestions": false,
+		"aiXcoder.showTrayIcon": true
+	}
+}
